@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything you want, it's my pleasure to answer the questions
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushengtzou&layout=compact&theme=github_dark&hide=html,css,vim%20script)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushengtzou&layout=compact&hide=html,css,vim%20script)
