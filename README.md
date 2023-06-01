@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-I’m a MS student in Bioinformatics @NYCU working on using machine learning methods in scRNA seq analysis.
+I’m a MS student in Bioinformatics @ NYCU working on using machine learning methods in scRNA seq analysis.
 
 Ask me about anything you want, it's my pleasure to answer the questions
 <br>
