@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a MS student in Bioinformatics @ NYCU working on using machine learning methods in scRNA seq analysis.
+I’m a MS student in Biomedical informatics @ NYCU working on using deep learning methonds in medical image processing.
 
 Ask me about anything you want, it's my pleasure to answer the questions
 <br>
