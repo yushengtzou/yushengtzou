@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a MS student in Biomedical informatics @ NYCU working on using deep learning method in medical image processing.
+I’m a MS student in BEBI @ NTU 
 
 Ask me about anything you want, it's my pleasure to answer the questions
 <br>
