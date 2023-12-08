@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently pursuing a Master's degree in Biomedical Electronics and Bioinformatics (BEBI) at National Taiwan University (NTU).
+I’m a 1st-year MS student in the Digital Camera and Computer Vision laboratory, advised by Prof. Chiou-Shann Fuh in the Graduate Institute of Biomedical Electronics and Bioinformatics, College of EECS, at National Taiwan University (NTU).
 
 As a researcher with a keen interest in Computer Vision, I'm always excited to explore and innovate in this field.
 
